@@ -1,2 +1,2 @@
 # lab1
-test repo
+test repo for git commands demo
